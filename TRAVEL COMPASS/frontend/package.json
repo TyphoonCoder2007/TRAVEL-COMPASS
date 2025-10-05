@@ -5,6 +5,8 @@
   "main": "craco.config.js",
   "devDependencies": {},
   "scripts": {
+    "start": "craco start",
+    "build": "craco build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
