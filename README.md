@@ -4,29 +4,36 @@ Travel Compass is an AI-powered web application designed to help travelers disco
 
 Features:
 
-AI-driven travel suggestions based on user input
+1.AI-driven travel suggestions based on user input
 
-Personalized recommendations for destinations, activities, and experiences
+2.Personalized recommendations for destinations, activities, and experiences
 
-Interactive and user-friendly interface
+3.Interactive and user-friendly interface
 
-Optimized for both casual travelers and adventure enthusiasts
+4.Optimized for both casual travelers and adventure enthusiasts
+
+
 
 Technologies Used:
 
-React/Next.js
+1.React/Next.js
 
-Node.js/Express
+2.Node.js/Express
 
-AI integration for natural language understanding and recommendation generation
+3.AI integration for natural language understanding and recommendation generation
+
+
 
 How it Works:
 
-User enters their travel preferences or prompt.
+1.User enters their travel preferences or prompt.
 
-AI processes the input and understands the user’s interests.
+2.AI processes the input and understands the user’s interests.
 
-Customized travel recommendations are displayed instantly.
+3.Customized travel recommendations are displayed instantly.
+
+
 
 Get Started:
+
 Clone the repository and follow the setup instructions to explore AI-guided travel planning at your fingertips!# TRAVEL-COMPASS
