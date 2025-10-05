@@ -1,39 +1,73 @@
-Travel Compass 🌍✈️
+**🌍 TRAVEL COMPASS**
+                       
+                     
+                       
+Travel Compass is an AI-powered web application that helps travelers discover personalized destinations and experiences.
+By analyzing your prompt — such as “I want a peaceful beach getaway” or “I love adventure and mountains” — the AI recommends locations, activities, and plans tailored to your preferences.
 
-Travel Compass is an AI-powered web application designed to help travelers discover personalized travel recommendations. By analyzing user prompts, the AI understands your preferences, interests, and travel goals, providing curated suggestions for destinations, activities, and experiences. Whether you’re planning a weekend getaway or a global adventure, Travel Compass guides you to the perfect journey.
+**✨ Features**
 
-Features:
+1.🧭 AI-based travel recommendations
 
-1.AI-driven travel suggestions based on user input
+2.💬 Natural language understanding of user prompts
 
-2.Personalized recommendations for destinations, activities, and experiences
+3.🌆 Curated destinations and activity ideas
 
-3.Interactive and user-friendly interface
+4.⚡ Fast and user-friendly interface
 
-4.Optimized for both casual travelers and adventure enthusiasts
-
-
-
-Technologies Used:
-
-1.React/Next.js
-
-2.Node.js/Express
-
-3.AI integration for natural language understanding and recommendation generation
+5.📱 Works seamlessly on web browsers
 
 
 
-How it Works:
+**⚙️ How It Works**
 
-1.User enters their travel preferences or prompt.
+1.**Enter your travel preferences or a simple prompt.**
 
-2.AI processes the input and understands the user’s interests.
+2.**The AI interprets your intent and interests.**
 
-3.Customized travel recommendations are displayed instantly.
+3.**Get personalized travel suggestions instantly.**
+
+4.**🧠 Tech Stack**
+
+Frontend: [React / Next.js / Emergent.sh or your chosen framework]
+
+Backend: [Node.js / Express or relevant backend]
+
+5. **AI Model**: Natural Language Processing-based recommendation system
+
+**🚀 Getting Started**
+
+i. Clone the repository:
+
+     git clone https://github.com/TyphoonCoder2007/travel-compass.git
+
+     cd travel-compass
+
+
+ii. Install dependencies:
+
+    npm install
+
+
+iii. Run the app:
+
+    npm start
+
+
+iv.  Open your browser at http://localhost:3000
 
 
 
-Get Started:
+**💡 Future Improvements**
 
-Clone the repository and follow the setup instructions to explore AI-guided travel planning at your fingertips!# TRAVEL-COMPASS
+1.Integration with live travel APIs
+
+2.Budget-based and location-based filtering
+
+3.User login and trip saving features
+
+
+
+**🧳 Author**
+
+Developed by **NIRMALYA GHOSH** — a student at KIIT (Ist Year) , passionate about AI, web and app develpoment. skilled in 6 programming languages - HTML, CSS, JAVASCRIPT, JAVA, PYTHON, C.
